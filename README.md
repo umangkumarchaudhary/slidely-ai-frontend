@@ -1,5 +1,8 @@
 # Frontend Repository
 
+# Umang Kumar
+
+
 This repository contains the frontend code for the Slidely AI Task. The frontend application is built with Visual Basic .NET Framework.
 
 ## Table of Contents
@@ -12,7 +15,7 @@ Before you can run the application, you need to set up the necessary environment
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/bhaveshj2611/Bhavesh-SlidelyAI-Frontend.git
+   git clone 
    cd frontend-repo
 
 2. **Open Project:**
@@ -33,8 +36,5 @@ To start the application, follow these steps:
 
     Press F5 or go to the Debug menu and select Start Debugging.
 
-
-**By default, the application will run locally on your machine.**
-
-**This frontend project is built as an assignment for Slidely AI by Bhavesh Joshi.**
+*
 
