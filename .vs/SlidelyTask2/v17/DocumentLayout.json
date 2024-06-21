@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SlidelyTask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|e:\\slidelytask2\\slidelytask2\\searchsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\searchsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|e:\\slidelytask2\\slidelytask2\\searchsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\searchsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|E:\\SlidelyTask2\\slidelytask2\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|e:\\slidelytask2\\slidelytask2\\editsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\editsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|e:\\slidelytask2\\slidelytask2\\editsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\editsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|e:\\slidelytask2\\slidelytask2\\deletesubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\deletesubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|e:\\slidelytask2\\slidelytask2\\deletesubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\deletesubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|e:\\slidelytask2\\slidelytask2\\createsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\createsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|E:\\SlidelyTask2\\slidelytask2\\createsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\createsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|E:\\SlidelyTask2\\slidelytask2\\viewsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\viewsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|E:\\SlidelyTask2\\slidelytask2\\viewsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\viewsubmissions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|E:\\SlidelyTask2\\slidelytask2\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|E:\\SlidelyTask2\\slidelytask2\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{602605E9-CC7C-4F05-9E1B-456DDBC9CE37}|SlidelyTask2\\SlidelyTask2.vbproj|solutionrelative:slidelytask2\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SlidelyTask2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchSubmissions.vb",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\SearchSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\SearchSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\SearchSubmissions.vb",
+              "RelativeToolTip": "SlidelyTask2\\SearchSubmissions.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T15:21:21.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditSubmissions.vb [Design]",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\EditSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\EditSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\EditSubmissions.vb [Design]",
+              "RelativeToolTip": "SlidelyTask2\\EditSubmissions.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T11:17:19.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditSubmissions.vb",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\EditSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\EditSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\EditSubmissions.vb",
+              "RelativeToolTip": "SlidelyTask2\\EditSubmissions.vb",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAwwKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T11:17:22.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchSubmissions.vb [Design]",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\SearchSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\SearchSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\SearchSubmissions.vb [Design]",
+              "RelativeToolTip": "SlidelyTask2\\SearchSubmissions.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T12:02:21.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Submission.vb",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\Submission.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\Submission.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\Submission.vb",
+              "RelativeToolTip": "SlidelyTask2\\Submission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:24:52.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteSubmissions.vb",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\DeleteSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\DeleteSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\DeleteSubmissions.vb",
+              "RelativeToolTip": "SlidelyTask2\\DeleteSubmissions.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T15:19:02.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteSubmissions.vb [Design]",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\DeleteSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\DeleteSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\DeleteSubmissions.vb [Design]",
+              "RelativeToolTip": "SlidelyTask2\\DeleteSubmissions.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T15:19:00.071Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewSubmissions.vb",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\ViewSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\ViewSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\ViewSubmissions.vb",
+              "RelativeToolTip": "SlidelyTask2\\ViewSubmissions.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:57:58.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateSubmissions.vb [Design]",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\CreateSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\CreateSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\CreateSubmissions.vb [Design]",
+              "RelativeToolTip": "SlidelyTask2\\CreateSubmissions.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:52:21.541Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateSubmissions.vb",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\CreateSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\CreateSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\CreateSubmissions.vb",
+              "RelativeToolTip": "SlidelyTask2\\CreateSubmissions.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:11:43.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewSubmissions.vb [Design]",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\ViewSubmissions.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\ViewSubmissions.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\ViewSubmissions.vb [Design]",
+              "RelativeToolTip": "SlidelyTask2\\ViewSubmissions.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:51:19.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Main.vb",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\Main.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\Main.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\Main.vb",
+              "RelativeToolTip": "SlidelyTask2\\Main.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:35:00.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.vb [Design]",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\Main.vb",
+              "RelativeDocumentMoniker": "SlidelyTask2\\Main.vb",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\Main.vb [Design]",
+              "RelativeToolTip": "SlidelyTask2\\Main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:29:06.709Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SlidelyTask2",
+              "DocumentMoniker": "E:\\SlidelyTask2\\SlidelyTask2\\SlidelyTask2.vbproj",
+              "RelativeDocumentMoniker": "SlidelyTask2\\SlidelyTask2.vbproj",
+              "ToolTip": "E:\\SlidelyTask2\\SlidelyTask2\\SlidelyTask2.vbproj",
+              "RelativeToolTip": "SlidelyTask2\\SlidelyTask2.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-19T13:45:13.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
